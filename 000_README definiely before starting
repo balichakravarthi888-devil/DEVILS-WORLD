@@ -94,200 +94,238 @@ here is your source codes for c and python follow the link for further updates
 
 33_PRG33: PROGRAM EXAMPLE FOR THE EXIT() FUNCTION IN NEW WAY
 
-34_PRG34:
+34_PRG34:THIS PROGRAM IS EXAMPLE FOR THE goto STATEMENT
 
-35_35PRG35:
+35_35PRG35:PROGRAM EXAMPLE FOR THE goto STATEMENT
 
-36_PRG36:
+36_PRG36:/*PROGRAM TO CALCULATE THE DISCOUNT ACCORDING TO THE FOLLOWING CONDITIONS IF
+PURCHASE VALUE<1000 DISCOUNT=0, IF PV>=1000& & PV<2000 DISCOUNT=5% OF PV
+IF PV>=2000 &PV<3000 DISCOUNT=10%, IF PV>=3000 & PV<5000 DISCOUNT=15% OTHER
+WISE THE DISCOUNT GIVEN IS 20% OF PV FIND OUT TOTAL NO OF RECORDS PROCESS
+AND TOTOAL PV AND TOTAL DISCOUNT AND NETVALUE(NET=PV-DISCOUNT) AND TOTAL
+NET VALUE ALSO*/
 
-37_PRG37:
+37_PRG37://PROGRAM EXAMPLE FOR THE SINGLE DIMENSIONAL ARRAYS DECLARATION,INITIALIZATION
+//AND PRINTING
 
-38_PRG38:
+38_PRG38://PROGRAM EXAMPLE FOR THE SINGLE DIMENSIONAL ARRAYS DECLARATION,INITIALIZATION AND PRINTING
 
-39_PRG39:
+39_PRG39://PROGRAM EXAMPLE FOR THE SINGLE DIMENSIONAL ARRAYS PROGRAMS TO DECLARE, READ AND PRINT ARRAYS
 
-40_PRG40:
+40_PRG40:/*PROGRAM TO READ ROLLNO NAME AND MARKS IN 5 SUBJECTS USING ARRAY FOR
+MARKS FIND OUT THE TOTAL MARKS IN 5 SUBJECTS AND FIND OUT AVERAGE RESULT
+AND GRADE AND PRINT ALL INFORMATION*/
 
-41_PRG41:
+41_PRG41:/*PROGRAM TO CREATE A DOUBLE DIMENSIONAL ARRAY WHICH IS OF INTEGER DATA
+TYPE INITIALIZE DATA INTO IT AFTER THAT PRINT THE ARRAY ELIMENTS*/
 
-42_PRG42:
+42_PRG42:/*PROGRAM TO CREATE A DOUBLE DIMENSIONAL ARRAY WHICH IS OF INTEGER DATA TYPE
+READ THE DATA INTO IT AFTER THAT PRINT THE ARRAY ELIMENTS*/
 
-43_PRG43:
+43_PRG43://THIS PROGRAM TO PRINT DIAGNAL ELEMENTS OF A MATRIX
 
-44_PRG44:
+44_PRG44://PROGRAM TO PRINT REVERSE DIAGNAL ELEMENTS OF A MATRIX
 
-45_PRG45:
+45_PRG45:/*Program to findout the row sum of the given matrix */
 
-46_PRG46:
+46_PRG46:program for finding column sum/
 
-47_PRG47:
+47_PRG47:/* Program for matrix addition */
 
-48_PRG48:
+48_PRG48:program for matrix multiplication
 
-49_PRG49:
+49_PRG49:/* college reports using 3 dimensional array */
  
-50_PRG50:
+50_PRG50:/* college reports using 3 dimensional array */
 
-51_PRG51:
+51_PRG51:/* This program shows the usage of strings.
+Program to declaring a string, initializing a string variable and print string variables */
 
-52_PRG52:
+52_PRG52:program to explain strings
 
-53_PRG53:
+53_PRG53://THIS PROGRAM SHOWS THE USAGE OF ARRAY OF STRINGS DECLARING ARRAY OF STRINGS, INITIALIZING A ARRAY
+OF STRINGS, AND PRINT ARRAY OF STRING VARIABLES
 
-54_PRG54:
+54_PRG54:/* This program shows the usage of declaring array of strings,
+   reading array of strings and printing array of string variables */
 
-55_PRG55:
+55_PRG55:/* This program shows the usage of array of strings,
+   declaring array of strings, reading array of strings and printing array of string variables */
 
-56_PRG56:
+56_PRG56:/*THIS PROGRAM ACCEPT TWO STRINGS AND CONCATENATES CONTENTS OF THE SECOND STRING AT THE END OF THE FIRST*/
 
-57_PRG57:
 
-58_PRG58:
+57_PRG57:/* This program shows the usage of strcmp() function. */
 
-59_PRG59:
+58_PRG58:/* This program example for strcpy() function */
 
-60_PRG60:
+59_PRG59::/* This program shows the usage of strcpy() function */
 
-61_PRG61:
 
-62_PRG62:
+60_PRG60:/* This program is to copy a string to other variable using strcpy() function */
 
-63_PRG63:
 
-64_PRG64:
+61_PRG61:/* This program finds out the length of the string using strlen() function */
 
-65_PRG65:
+62_PRG62://programe of string character
 
-66_PRG66:
 
-67_PRG67:
+63_PRG63:PROGRAME TO PRINT THE CHARACTER OF A STRING
 
-68_PRG68:
+64_PRG64:programe to show the uppercase or lowercase
 
-69_PRG69:
+65_PRG65:// Program to find out the given character is in lowercase or not and if it is in lowercase then change it into upper case otherwise change it into lowercase using isupper(), islower(), toupper(), tolower() functions
 
-70_PRG70:
+66_PRG66:://Program to check the given character is DIGIT or ALPHABET or Special character
 
-71_PRG71:
 
-72_PRG72:
+67_PRG67/* This program to check the given character is printable character or not printable character */
 
-73_PRG73:
+68_PRG68:/* This program to check the given character is SPACE or not using isspace() function */
 
-74_PRG74:
+69_PRG69:/* This program to check the given character is punctuated character or not using ispunct() function */
 
-75_PRG75:
+70_PRG70:/* This program to check the given character is alphabet or numaric or special character using isalnum() function
 
-76_PRG76:
+71_PRG71:/* Program To findout the given character is digit or not using isdigit() */
 
-77_PRG77:
+72_PRG72:/* Program Example for the user defined functions */
 
-78_PRG78:
+73_PRG73:/* Program Example for the functions without arguments and without returns */
 
-79_PRG79:
+74_PRG74:programe to show user defined function
 
-80_PRG80:
+75_PRG75:program example for the functions with arguments and without returns
 
-81_PRG81:
+76_PRG76://PROGRAM EXAMPLE FOR HE FUNCTIONS WITH ARGUMENTS BUT NO RETURNS- PROGRAM FOR SWAPING TWO NUMBERS
 
-82_PRG82:
+77_PRG77:/* FUNCTION WITHOUT ARGUMENTS AND WITH RETURN VALUES */
 
-83_PRG83:
+78_PRG78:/* PROGRAM TO CONVERT A GIVEN CHARACTER TO UPPER CASE */
 
-84_PRG84:
+79_PRG79:/* PROGRAM TO PRINT ASCII VALUES FROM 0 TO 254 */
 
-85_PRG85:
+80_PRG80:/* PROGRAM TO FIND THE POWER OF A NUMBER */
 
-86_PRG86:
+81_PRG81:* PROGRAM EXAMPLE FOR HOW TO CALL USER DEFINED FUNCTIONS *
 
-87_PRG87:
+82_PRG82:/* PROGRAM USING USER DEFINED FUNCTIONS */
 
-88_PRG88:
+83_PRG83:/* PROGRAM EXAMPLE FOR FUNCTIONS WITHOUT ARGUMENTS AND RETURNS AND STRING MANIPULATION MANUALLY */
 
-89_PRG89:
 
-90_PRG90:
+84_PRG84:/* DEFINITIONS FOR THE USER DEFINED FUNCTIONS */
 
-91_PRG91:
+85_PRG85//ARRAYS WITH FUNCTIONS
 
-92_PRG92:
 
-93_PRG93:
+86_PRG86://ARRAYS WITH FUNCTIONS
 
-94_PRG94:
+87_PRG87://program example for the functions with arrays
 
-95_PRG95:
+88_PRG88:/* PROGRAM EXAMPLE FOR THE FUNCTION WITH 1D ARRAY */
 
-96_PRG96:
+89_PRG89:/* PROGRAM EXAMPLE FOR THE FUNCTION WITH DOUBLE DIMENSIONAL ARRAY */
 
-97_PRG97:
 
-98_PRG98:
+90_PRG90:  /* PROGRAM EXAMPLE FOR THE ADDRESS OF OPERATOR (&) IN POINTERS */
 
-99_PRG99:
+91_PRG91:/* PROGRAM EXAMPLE FOR DECLARING AND INITIALIZING POINTER VARIABLES */
 
-100_PRG100:
+92_PRG92:/* PROGRAM EXAMPLE FOR TYPES OF POINTER VARIABLES */
 
-101_PRG101:
+93_PRG93:/* PROGRAM EXAMPLE FOR DOUBLE POINTER VARIABLES */
 
-102_PRG102:
+94_PRG94:/* PROGRAM EXAMPLE FOR POINTERS WITH INCREMENT OPERATOR */
 
-103_PRG103:
+95_PRG95:/* PROGRAM EXAMPLE FOR POINTERS WITH ARITHMETICAL OPERATORS */
 
-104_PRG104:
 
-105_PRG105:
+96_PRG96:/* PROGRAM EXAMPLE FOR POINTERS WITH ARITHMETIC OPERATIONS ON TWO NUMBERS */
 
-106_PRG106:
+97_PRG97:/* PROGRAM EXAMPLE FOR POINTERS WITH ARITHMETIC OPERATORS ON A SINGLE VARIABLE */
 
-107_PRG107:
+98_PRG98:/* PROGRAM EXAMPLE FOR ARRAY ADDRESSES AND POINTERS WITH ARRAYS */
 
-108_PRG108:
+99_PRG99:/* PROGRAM EXAMPLE FOR POINTERS WITH ARRAYS */
 
-109_PRG109:
+100_PRG100:/* PROGRAM EXAMPLE FOR POINTERS WITH ARRAYS */
 
-110_PRG110:
+
+101_PRG101://POINTERS WITH DOUBLE DIMENSIONAL ARRAYS
+
+102_PRG102://PROGRAM EXAMPLE FOR THE POINTERS WITH FUNCTIONS
+//PROGRAM EXAMPLE TO SWAP TWO NUMBERS USING CALL BY REFERENCE
+
+
+103_PRG103:/*Program example for the call_by reference. functions with pointers */
+
+104_PRG104://ARRAYS WITH FUNCTIONS AND POINTERS
+//THIS PROGRAM PASS THE ARRAY VALUES TO THE FUNCTIONS USING CALLING REFFERENCE
+
+105_PRG105:/* Arrays with functions and pointers
+This program pass the array to the functions using
+call by refference */
+
+106_PRG106://ARRAYS WITH FUNCTION AND POINTERS
+//THIS PROGRAM TO FINDOUT THE SUM OF THE ARRAY USING FUNCTIONS THROUGH CALL BY REFERENCE
+
+107_PRG107://PROGRAM EXAMPLE OR THE STRUCTURES
+
+108_PRG108:/* program example for the declaring structure, read and print structure */
+
+109_PRG109://ASSIGNEMENT ONE STRUCTURE VARIABLE TO ANOTHER STRUCTURE VARIABLE
+
+
+110_PRG110:/* Program Example for the Nested Structure */
 
 111_PRG111:
 
-112_PRG112:
-
-113_PRG113:
-
-114_PRG114:
-
-115_PRG115:
-
-116_PRG116:
-
-117_PRG117:
+112_PRG112:PROGRAM EXAMPLE FOR THE ARRAY OF STRUCTURES//
 
 
-118_PRG118:
+113_PRG113:/* Structure with pointers *
 
-119_PRG119:
 
-120_PRG120:
+114_PRG114:/* Program Example for the structures with pointers */
 
-121_PRG121:
 
-122_PRG122:
+115_PRG115: structures with functions using call by value and call by reference */
 
-123_PRG123:
+116_PRG116://STRUCTURE WITH FUNCTIONS AND POINTERS
 
-124_PRG124:
+117_PRG117:/* program example for the opening a file using fopen() */
 
-125_PRG125:
 
-126_PRG126:
+118_PRG118://PROGRAM EXAMPLE FOR THE OPENEING AND CLOSING A FILE USING fopen() and fclose()
 
-127_PRG127:
 
-128_PRG128:
+119_PRG119://PROGRAM EXAMPLE FOR THE READING A FILE USING fgetc()
 
-129_PRG129:
+120_PRG120://PROGRAM EXAMPLE FOR THE fputc()
 
-130_PRG130:
+
+121_PRG121:/* program reading and writing fles using fgete() and fpute() *
+PROGRAM TO COPY THE CONTENTS FROM ONE FILE TO ANOTHER */
+
+122_PRG122://Program Example for the String I/O Fuctions in files *///* using fputs() functions Program To create the new file with geven text/
+
+123_PRG123:/* Program Example for the String I/O Fuctions in files using fgets()*/
+
+124_PRG124://THIS PROGRAM SHOWS THE USAGE OF fscanf() functioin
+
+125_PRG125://PROGRAME SHOWING THE USAGE OF STRUCTURES WITH FILES
+
+126_PRG126://HERE IS THE CODING
+// PROGRAM EXAMPLE FOR THE COMMAND LINE ARGUMENTS USING ARGC AND ARGV IN FILES
+
+127_PRG127://PROGRAM EXAMPLE FOR UNIONS
+
+128_PRG128://programe to show union data types
+
+129_PRG129://programe of union data 
+
+130_PRG130://programe of union data 
 
 
 -=============================================C-LANGUAGE======GRAPHICS================ENJOY=====================GOING DO SOME MORE NEW IDEAS WAIT FOR IT=========
